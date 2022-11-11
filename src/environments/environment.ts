@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   //baseUrl: 'http://localhost:8080'
-  baseUrl: 'http://ip:30163'
+  baseUrl: 'http://ac544c021ad9d46cea3f19c6c33af8eb-487079921.eu-central-1.elb.amazonaws.com:8080'
 
 };
 
